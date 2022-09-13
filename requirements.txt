@@ -5,3 +5,4 @@ numpy==1.21.5
 SQLAlchemy==1.4.32
 gunicorn==19.0.0
 uvicorn==0.18.3
+tensorflow-compression==2.10.0
